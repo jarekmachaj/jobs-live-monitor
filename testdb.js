@@ -6,5 +6,6 @@
 { "firstName" : "Peter", "lastName" : "Jones" }	,
 { "firstName" : "Peter", "lastName" : "Jones" }	,
 { "firstName" : "Peter", "lastName" : "Jones" }	,
-{ "firstName" : "Peter", "lastName" : "Jones" }	
+{ "firstName" : "Peter", "lastName" : "Jones" }	,
+{ "firstName" : "Peter", "lastName" : "Jones" }
 ]
